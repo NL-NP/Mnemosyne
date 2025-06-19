@@ -1,6 +1,8 @@
 # 🧠 Mnemosyne
 Twitter: https://x.com/Mnemosyne_NP
+
 Youtube: https://www.youtube.com/@Mnemosyne_NP
+
 Instagram: https://www.instagram.com/mnemosyne_np
 
 The **Mnemosyne** is an open, structured knowledge framework designed to provide an interactive, interconnected and accesible experience in learning, with a focus on Mathematics, Physics, Chemistry, and Biology. 
