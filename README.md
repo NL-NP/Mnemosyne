@@ -1,4 +1,4 @@
-# 🧠 Mnemosyne
+# Mnemosyne
 Twitter: https://x.com/Mnemosyne_NP
 
 Youtube: https://www.youtube.com/@Mnemosyne_NP
@@ -7,6 +7,7 @@ Instagram: https://www.instagram.com/mnemosyne_np
 
 The **Mnemosyne** is an open, structured knowledge framework designed to provide an interactive, interconnected and accesible experience in learning, with a focus on Mathematics, Physics, Chemistry, and Biology. 
 
+
 > **Mission:**  
 > To provide free, high-quality educational resources accessible to everyone completely free of any charge, while preserving intellectual rigor.
 > 
@@ -14,9 +15,10 @@ The **Mnemosyne** is an open, structured knowledge framework designed to provide
 > 
 > To provide a centralized platform for Researchers to share knowledge with ease, from discussion to formal papers.
 
+Currently, besides the Mission, you could probably disregard anything else, wait and see, I might release a batch of stuff every once and a while. Will organize them later into the actual, proposed framework.
 ---
 
-## 📚 Project Structure
+## Project Structure
 
 The Mnemosyne is divided into:
 - **Nodes (Educational Content):**  
