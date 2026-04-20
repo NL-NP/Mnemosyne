@@ -6,8 +6,8 @@
 #include<random>
 using namespace std;
 
-int main()
-{
+void schulte_table(){
+  
     int gridsize, least_var;
     cout << "gridsize:";
     cin >> gridsize;
@@ -31,7 +31,6 @@ int main()
     auto rng = default_random_engine {};
     shuffle(begin(a), end(a), rng);
     cout << "CHECKPOINT" << endl;
-
     for (int r=0; r<gridsize; r++)
     {
         for (int u=0; u<gridsize; u++)
@@ -42,7 +41,6 @@ int main()
         Row += R"(\\\hline
         )";
     }
-
     cout << R"(
         \begin{table}[h]
         \centering
@@ -53,5 +51,16 @@ int main()
         \end{table}
         )" 
         << endl;
-
+}
+int main(){
+while (true)
+{
+  schulte_table();
+  bool k = true;
+    cout << "again?(no to quit, otherwise continue)";
+    string dec;
+    cin >> dec;
+    if(dec=="no"){break;}
+}
+ 
 }
